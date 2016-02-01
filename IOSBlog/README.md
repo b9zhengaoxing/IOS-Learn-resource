@@ -34,6 +34,12 @@
 2. [个人Git](https://github.com/lzyy/iOS-Developer-Interview-Questions/commits/master)
 
 #谌启亮
+-------
 评：老博客，GCD，NSOperation写的很优雅
 
 1. [个人主页.停更](http://blog.xcodev.com/archives/operation-queue-intro/)
+
+#很多个人博客
+------
+
+1. [个人博客的总结](http://www.java123.net/v/992120.html)

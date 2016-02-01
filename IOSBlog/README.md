@@ -32,3 +32,8 @@
 
 1. [个人主页.个人](http://limboy.me)
 2. [个人Git](https://github.com/lzyy/iOS-Developer-Interview-Questions/commits/master)
+
+#谌启亮
+评：老博客，GCD，NSOperation写的很优雅
+
+1. [个人主页.停更](http://blog.xcodev.com/archives/operation-queue-intro/)
